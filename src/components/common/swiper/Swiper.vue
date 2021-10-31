@@ -96,7 +96,7 @@ ul li {
   font-size: 14px;
 }
 .banner {
-  max-width: 1260px;
+  /* max-width: 1260px; */
   position: relative;
 }
 .banner img {

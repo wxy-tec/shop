@@ -34,6 +34,9 @@ export default {
   display: flex;
 }
 .hhh {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   flex-grow: 1;
   margin-bottom: 64px;
 }

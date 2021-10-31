@@ -28,6 +28,7 @@ export default {
 
 <style scoped>
 table {
+  width: 100%;
   margin-bottom: 74px;
 }
 /* 头部 */

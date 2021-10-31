@@ -70,8 +70,8 @@ export default {
     margin-left: 20px;
   }
   .header-right {
-    float: right;
-    padding-right: 235px;
+    /* float: right; */
+    /* padding-right: 235px; */
   }
   .header-user-con {
     display: flex;
